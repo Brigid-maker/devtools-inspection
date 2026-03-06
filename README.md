@@ -1,24 +1,33 @@
 # Website Inspection Using Browser DevTools
 
-## Website: https://www.google.com
+## Website: https://github.com
 
 ### 1. HTML Tags Used
-Some HTML tags found on the page include:
+Some HTML tags found on the GitHub homepage include:
 
 - `<html>`
 - `<head>`
-- `<meta>`
 - `<title>`
+- `<meta>`
 - `<body>`
+- `<header>`
+- `<nav>`
+- `<main>`
+- `<section>`
 - `<div>`
-- `<form>`
-- `<input>`
-- `<img>`
+- `<h1>`
+- `<h2>`
+- `<p>`
 - `<a>`
-- `<script>`
+- `<img>`
+- `<button>`
+- `<form>`
+
+---
 
 ### 2. Page Title
-The title of the page is:
+
+The page title found in the `<title>` tag is:
 
 ---
 
