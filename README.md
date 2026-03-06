@@ -55,4 +55,5 @@ The search form contains:
 - submit button
 
 ### 3. Elements panel screenshot
-(Add screenshot below)
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/fc29918b-f188-47d8-a893-1833d9915ddd" />
+
