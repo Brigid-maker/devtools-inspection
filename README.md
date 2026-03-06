@@ -1,22 +1,24 @@
 # Website Inspection Using Browser DevTools
 
-## Website 1: https://example.com
+## Website: https://www.google.com
 
-### 1. HTML tags used
-- html
-- head
-- title
-- body
-- div
-- h1
-- p
-- a
+### 1. HTML Tags Used
+Some HTML tags found on the page include:
 
-### 2. Page title
-Example Domain
+- `<html>`
+- `<head>`
+- `<meta>`
+- `<title>`
+- `<body>`
+- `<div>`
+- `<form>`
+- `<input>`
+- `<img>`
+- `<a>`
+- `<script>`
 
-### 3. Number of headings
-There is 1 heading on the page (h1).
+### 2. Page Title
+The title of the page is:
 
 ---
 
