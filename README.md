@@ -27,7 +27,8 @@ Some HTML tags found on the GitHub homepage include:
 
 ### 2. Page Title
 
-The page title found in the `<title>` tag is GitHub 
+The page title found in the `<title>` tag is **GitHub**.
+
 ---
 
 ### 3. Number of Headings
